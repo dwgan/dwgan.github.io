@@ -11,6 +11,7 @@ redirect_from:
 
 Hobbies
 ======
-* Guitar: Love music, love life. Here are some [guitar tablature](../music/枫叶城2019.pdf) for you.
+* Guitar: Love music, love life. Here are some [guitar tablature](../music/枫叶城2019.pdf).
 * Swimming: More excercise, live loger
-* Geek
+* Billiards, Ping-pong: It is interesting to do kinematic analysis.
+* Geek: 
