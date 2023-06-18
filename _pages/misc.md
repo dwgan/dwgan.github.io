@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hobbies
+Recent Hobbies
 ======
 * Guitar: Love music, love life. Here are some [guitar tablature](../music/枫叶城2019.pdf).
 * Swimming: Exercise helps me focus.
