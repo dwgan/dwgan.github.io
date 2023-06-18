@@ -17,7 +17,7 @@ News
 * Feb. 2022 ~ May 2022: I was writing my first journal paper. This project had been done since Oct. 2020. It is hard to write a paper in English.
 -->
 
-* Aug. 21, 2022: My paper was accepted by Solar Energy. Congratulations!
+* Aug. 21, 2022: My paper was accepted by _Solar Energy_. Congratulations!
 
 * Jun. 2022 ~ Sept. 2022: I was preparing for IELTS test. Spoken English is not easy for me. <!--Finally, I got 6.0.-->
 
