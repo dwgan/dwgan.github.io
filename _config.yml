@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dongwen Gan"
   avatar           : "profile.png"
-  bio              : "A master's student at Xidian University"
+  bio              : "A master candidate at Xidian University"
   location         : "Xi'an, Shaanxi, CN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -97,7 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "dwgan"
-  blog             : "dwgan.blog.csdn.net"
+  blog             : "https://dwgan.blog.csdn.net"
   google_plus      :
   keybase          :
   instagram        :
