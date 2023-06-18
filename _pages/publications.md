@@ -14,8 +14,3 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-Education
-======
-* B.S. in School of Aerospace Science and Technology (SAST), Xidian University, 2020
-* M.S. in School of Aerospace Science and Technology (SAST), Xidian University, 2023 (expected)
