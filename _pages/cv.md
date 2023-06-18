@@ -16,8 +16,6 @@ Education
 
 Skills
 ======
-* Embedded Development
-  * MCU
-  * FPGA
-* Circuit Design
-* Sparse Signal Processing 
+* Embedded Development, Circuit Design, Sparse Signal Processing
+* Programming: C, MATLAB, Python, Verilog.
+* Hobbies: Guitar
