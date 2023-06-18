@@ -11,5 +11,6 @@ redirect_from:
 
 Hobbies
 ======
-* Guitar
-* Swimming
+* Guitar: Love music, love life
+* Swimming: More excercise, live loger
+* Geek
