@@ -19,3 +19,7 @@ Skills
 * Embedded Development, Circuit Design, Sparse Signal Processing
 * Programming: C, MATLAB, Python, Verilog.
 * Hobbies: Guitar
+
+RESEARCH INTERESTS
+=====
+My research interest includes Compressed Sensing, Wireless Sensor Networking.
