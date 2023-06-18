@@ -18,4 +18,4 @@ Recent Hobbies
 
 Life goals
 =
-* Bungee: Always expecting exciting moment.
+* Bungee: Always expecting exciting moments.
