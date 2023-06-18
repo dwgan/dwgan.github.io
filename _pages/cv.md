@@ -18,7 +18,6 @@ Skills
 ======
 * Embedded Development, Circuit Design, Sparse Signal Processing
 * Programming: C, MATLAB, Python, Verilog.
-* Hobbies: Guitar
 
 RESEARCH INTERESTS
 =====
