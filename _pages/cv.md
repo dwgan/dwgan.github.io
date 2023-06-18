@@ -26,4 +26,4 @@ Skills
 * Embedded Development
 * Circuit Design
 * Sparse Signal Processing
-* Programming: C, MATLAB, Python, Verilog.
+* Programming: C, MATLAB, Python, Verilog
