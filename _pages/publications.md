@@ -8,5 +8,19 @@ author_profile: true
 {% include base_path %}
 
 # Papers
-[1] Pseudo-Random Sequence Coded Electroluminescence Imaging for photovoltaic module Inspection under Outdoor Ambient Light\
-Gan, Dongwen, Lei Quan, Fan Zhu, Kai Xie, and Junmei Bai
+[1] **Orthogonal modulation based light beam induced current method for anti-noise defect detection in photovoltaic cells**\
+Dongwen Gan, Lei Quan, Fan Zhu, Kai Xie, and Junmei Bai\
+_Solar Energy_, 2022, IF: 7.188
+
+[2] **Pseudo-random sequence coded electroluminescence imaging for photovoltaic module inspection under outdoor ambient light**\
+Fan Zhu, Kai Xie, Dongwen Gan, Lei Quan, and Jingyi Zhu\
+Submited to _IEEE Transactions on Instrumentation and Measurement_
+
+<!--[3] **Perturbed compressed sensing-based light beam induced current method for robust defect detection in photovoltaic cells**\
+In processing
+
+[4] **Compressive multispectral light beam induced current method for defect detection in photovoltaic cells**\
+In processing
+-->
+
+# Chinese Patents
