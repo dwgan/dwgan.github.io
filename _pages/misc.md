@@ -12,6 +12,10 @@ redirect_from:
 Hobbies
 ======
 * Guitar: Love music, love life. Here are some [guitar tablature](../music/枫叶城2019.pdf).
-* Swimming: More excercise, live loger
+* Swimming: Exercise helps me focus.
 * Billiards, Ping-pong: It is interesting to do kinematic analysis.
-* Geek: Pationate about technology, here is my [CSDN Blog](https://dwgan.blog.csdn.net/)
+* Geek: Technology makes future, here is my [CSDN Blog](https://dwgan.blog.csdn.net/)
+
+Life goals
+=
+* Bungee: Always expecting exciting moment.
