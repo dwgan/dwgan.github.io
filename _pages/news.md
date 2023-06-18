@@ -19,7 +19,7 @@ News
 
 * Jun. 2022 ~ Sept. 2022: I was preparing for IELTS test. Spoken English is not easy for me. Finally I got 6.0.
 
-* Oct. 2022 ~ Jan. 2023: I take the remote Academic English Communication and Writing Skills Program, hold by Girton college, Cambridge. Finally I got Upper Second Class.
+* Oct. 2022 ~ Jan. 2023: I was taking the remote Academic English Communication and Writing Skills Program, hold by Girton college, Cambridge. Finally I got Upper Second Class. I really enjoy the interesting communication moment. 
 
 * Oct. 2022 ~ Apr. 10, 2023: I was seeking job. The employment environment is Very pessimistic. Review those skills are painful. Finally, after refusing offer from research institutes, I accept the offer from STMicroelectronics.
 
