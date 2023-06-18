@@ -12,9 +12,11 @@ redirect_from:
 News
 ======
 * Oct. 2021 ~ Jan. 24, 2022: I was doing a flight mission at Jiuquan Satellite Launch Centre. Cold and exciting experience. I was responsible for the core communication framework for missile-borne computer. Here is the [report link](https://www.guancha.cn/industry-science/2022_01_24_623388.shtml) about this mission.
+
 <!--
 * Feb. 2022 ~ May 2022: I was writing my first journal paper. This project had been done since Oct. 2020. It is hard to write a paper in English.
 -->
+
 * Aug. 21, 2022: My paper was accepted by Solar Energy. Congratulations!
 
 * Jun. 2022 ~ Sept. 2022: I was preparing for IELTS test. Spoken English is not easy for me. <!--Finally, I got 6.0.-->
