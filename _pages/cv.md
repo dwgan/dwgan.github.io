@@ -14,7 +14,7 @@ Education
 * B.S. in B.Eng in Detecting Guidance and Control Technique, Xidian University, 2020
 * M.S. in Instrument Science and Technology, Xidian University, 2023 (expected)
 
-RESEARCH INTERESTS
+Research Interests
 =====
 My research interest includes
 * Compressed Sensing
