@@ -16,6 +16,6 @@ Recent Hobbies
 * Billiards, Ping-pong: It is interesting to do kinematic analysis.
 * Geek: Technology makes future, here is my [CSDN Blog](https://dwgan.blog.csdn.net/)
 
-Life goals
+Future Plan
 =
 * Bungee: Always expecting exciting moments.
