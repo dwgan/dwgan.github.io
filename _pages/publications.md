@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# Papers
+## Papers
 [1] **Orthogonal modulation based light beam induced current method for anti-noise defect detection in photovoltaic cells**\
 Dongwen Gan, Lei Quan, Fan Zhu, Kai Xie, and Junmei Bai\
 _Solar Energy_, 2022, IF: 7.188
@@ -24,7 +24,7 @@ In processing
 In processing
 -->
 
-# Chinese Patents
+## Chinese Patents
 [1] CN202111400112.2, Nov. 2022.
 
 [2] CN202110981312.5, Dec. 2021.
