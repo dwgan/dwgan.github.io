@@ -13,7 +13,7 @@ Scholarships
 ======
 * 2019 National Encouragement Scholarship.
 * 2022 National Scholarship.
-* 2022 China Aerospace Science and Technology Corporation Scholarship (Social Scholarship).
+* 2022 China Aerospace Science and Technology Corporation (CASC) Scholarship (Social Scholarship).
 
 Competitions
 ======
