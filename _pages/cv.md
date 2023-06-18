@@ -22,4 +22,6 @@ Skills
 
 RESEARCH INTERESTS
 =====
-My research interest includes Compressed Sensing, Wireless Sensor Networking.
+My research interest includes
+*Compressed Sensing
+*Wireless Sensor Network
