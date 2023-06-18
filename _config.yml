@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "ch-CN"
-title                    : "Dongwen Gan"
+title                    : "Dongwen Gan / 甘东文"
 title_separator          : "-"
 name                     : &name "Dongwen Gan"
 description              : &description "personal description"
