@@ -19,7 +19,7 @@ News
 
 * Aug. 21, 2022: My paper was accepted by _Solar Energy_. Congratulations!
 
-* Jun. 2022 ~ Sept. 2022: I was preparing for IELTS test. Spoken English is not easy for me. <!--Finally, I got 6.0.-->
+* Jun. 2022 ~ Sept. 2022: I was preparing for _IELTS_ test. Spoken English is not easy for me.
 
 * Oct. 2022 ~ Jan. 2023: I was taking the remote Academic English Communication and Writing Skills Program, held by Girton College, Cambridge. I got Upper Second Class. I really enjoy the interesting communication moment. 
 
