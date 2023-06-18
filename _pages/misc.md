@@ -11,4 +11,5 @@ redirect_from:
 
 Hobbies
 ======
-* Hobbies: Guitar
+* Guitar
+* Swimming
