@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wellcome to Dongwen Gan's website!"
+title: "Hi there, Wellcome to my homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
