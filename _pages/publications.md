@@ -16,7 +16,8 @@ _Solar Energy_, 2022, IF: 7.188
 Fan Zhu, Kai Xie, Dongwen Gan, Lei Quan, and Jingyi Zhu\
 Submited to _IEEE Transactions on Instrumentation and Measurement_
 
-<!--[3] **Perturbed compressed sensing-based light beam induced current method for robust defect detection in photovoltaic cells**\
+<!--
+[3] **Perturbed compressed sensing-based light beam induced current method for robust defect detection in photovoltaic cells**\
 In processing
 
 [4] **Compressive multispectral light beam induced current method for defect detection in photovoltaic cells**\
@@ -24,3 +25,8 @@ In processing
 -->
 
 # Chinese Patents
+[1] CN202111400112.2, Nov. 2022.
+
+[2] CN202110981312.5, Dec. 2021.
+
+[3] CN202011001773.3, Dec. 2020.
