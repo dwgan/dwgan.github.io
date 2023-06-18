@@ -25,3 +25,4 @@ News
 
 * Feb. 2023 ~ May. 2023: I was writting my graduate thesis. I choose a topic that I was interested in but not familiar with. I spent more than a month in learning the preliminary knowledge. Desingning algorithm is interesting and writting this thesis is not hard for me. Finally, I pass blind review and thesis defense.
 
+* May. 2023 ~ Now: Considering where I will be, what I want to be 
