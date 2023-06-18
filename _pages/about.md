@@ -11,6 +11,6 @@ I am currently a third year Master student in [Group of Aerospace Technology in 
 
 RESEARCH INTERESTS
 =====
-My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+My research interest includes Compressed Sensing, Wireless Sensor Networking.
 
-[Email](dwgan at stu.xidian.edu.cn) / [Github](https://github.com/dwgan) / [CSDN](https://dwgan.blog.csdn.net/)
+[CSDN](https://dwgan.blog.csdn.net/)
