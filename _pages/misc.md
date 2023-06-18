@@ -11,6 +11,6 @@ redirect_from:
 
 Hobbies
 ======
-* Guitar: Love music, love life. Here are some  for you.
+* Guitar: Love music, love life. Here are some [guitar tablature]() for you.
 * Swimming: More excercise, live loger
 * Geek
