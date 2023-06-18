@@ -11,6 +11,6 @@ redirect_from:
 
 Hobbies
 ======
-* Guitar: Love music, love life. Here are some [guitar tablature]() for you.
+* Guitar: Love music, love life. Here are some [guitar tablature](../music/枫叶城2021.pdf) for you.
 * Swimming: More excercise, live loger
 * Geek
