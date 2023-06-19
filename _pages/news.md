@@ -25,7 +25,7 @@ News
 
 * Oct. 2022 ~ Apr. 10, 2023: I was seeking a job. The employment environment is Very pessimistic this year. Reviewing those skills is painful. Finally, after refusing offers from research institutes, I accept the offer from foreign enterprises at Shenzhen. <!--STMicroelectronics.-->
 
-* Feb. 2023 ~ May. 2023: I was writing my graduate thesis. I choose a topic that I was interested in but not familiar with. I spent more than a month learning the preliminary knowledge. Designing algorithm is interesting and writing this thesis is not hard for me. Finally, I pass the blind review and thesis defense.
+* Feb. 2023 ~ May. 2023: I was writing my graduate thesis. I choose a topic that I was interested in but not familiar with. I spent more than a month learning the preliminary knowledge. Designing algorithm and writing thesis are interesting. Finally, I pass the blind review and thesis defense. Here is my [graduate thesis]().
 
 <!--
 * May. 2023 ~ Now: Considering where I will be, what I want to be 
