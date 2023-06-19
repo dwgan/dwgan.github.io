@@ -17,6 +17,7 @@ Education
 Research Interests
 =====
 My research interest includes
+* Defect Detection
 * Compressed Sensing
 * Wireless Sensor Network
 * Aerospace Communication system
