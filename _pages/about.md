@@ -7,4 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there, Wellcome to my homepage! I am currently a third-year Master's student in [Group of Aerospace Technology in Electronics](https://web.xidian.edu.cn/kaixie/) (GATE) Lab, at [School of Aerospace Science and Technology](https://sast.xidian.edu.cn/) (SAST) in [Xidian University](https://www.xidian.edu.cn/), majoring in Instrument Science and Technology. Before, I received my Bachelor's degree (2020) from Xidian University. I am very fortunate to be advised by Associate Prof. [Quan Lei](https://web.xidian.edu.cn/quanlei/). I spent wonderful moments working closely with Prof. Quan Lei and Prof. [Xie Kai](https://web.xidian.edu.cn/kaixie/).
+Hi there, Wellcome to my homepage! 
+
+I am currently a third-year Master's student in [_Group of Aerospace Technology in Electronics_](https://web.xidian.edu.cn/kaixie/) (GATE) Lab, at [_School of Aerospace Science and Technology_](https://sast.xidian.edu.cn/) (SAST) in [_Xidian University_](https://www.xidian.edu.cn/), majoring in _Instrument Science and Technology_. I am very fortunate to be advised by Associate Prof. [Quan Lei](https://web.xidian.edu.cn/quanlei/). I spent wonderful moments working closely with Prof. Quan Lei and Prof. [Xie Kai](https://web.xidian.edu.cn/kaixie/).
+
+Before, I received my Bachelor's degree (2020) from _Xidian University_. 
