@@ -19,7 +19,7 @@ Research Interests
 My research interest includes
 * Defect Detection
 * Compressed Sensing
-* Aerospace Communication system
+* Aerospace In-Cabin Communication system
 
 Skills
 ======
