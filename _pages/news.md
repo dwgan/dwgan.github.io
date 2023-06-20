@@ -25,7 +25,7 @@ News
 
 * Oct. 2022 ~ Apr. 10, 2023: I was seeking a job. The employment environment is Very pessimistic this year. Relearning is painful. Finally,  I accept the offer from _STMicroelectronics_ as _Automation Application Engineer_ at Shenzhen, rather than research institutes.
 
-* Feb. 2023 ~ May. 2023: I was writing my graduate thesis. I choose a topic that I was interested in but not familiar with. I spent more than a month learning the preliminary knowledge. Designing algorithm and writing thesis are interesting. Finally, I pass the blind review and thesis defense. Here is my [graduate thesis]().
+* Feb. 2023 ~ May. 2023: I was writing my graduate thesis. I choose a topic that I was interested in but not familiar with. I spent more than a month learning the preliminary knowledge. Designing algorithm and writing thesis are interesting. Finally, I pass the blind review and thesis defense. Here is my [graduate thesis](../paper/v2.0.17-基于扰动压缩感知的光伏电池表面缺陷抗噪声检测技术研究(最终签名版).pdf).
 
 <!--
 * May. 2023 ~ Now: Considering where I will be, what I want to be 
