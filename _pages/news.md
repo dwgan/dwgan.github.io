@@ -23,7 +23,7 @@ News
 
 * Oct. 2022 ~ Jan. 2023: I was taking the remote Academic English Communication and Writing Skills Program, held by Girton College, Cambridge. I got Upper Second Class. I really enjoy the interesting communication moment. 
 
-* Oct. 2022 ~ Apr. 10, 2023: I was seeking a job. The employment environment is Very pessimistic this year. Relearning is painful. Finally,  I accept the offer from _STMicroelectronics_ at Shenzhen rather than research institutes.
+* Oct. 2022 ~ Apr. 10, 2023: I was seeking a job. The employment environment is Very pessimistic this year. Relearning is painful. Finally,  I accept the offer from _STMicroelectronics_ as _Automation Application Engineer_ at Shenzhen, rather than research institutes.
 
 * Feb. 2023 ~ May. 2023: I was writing my graduate thesis. I choose a topic that I was interested in but not familiar with. I spent more than a month learning the preliminary knowledge. Designing algorithm and writing thesis are interesting. Finally, I pass the blind review and thesis defense. Here is my [graduate thesis]().
 
