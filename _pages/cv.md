@@ -27,3 +27,5 @@ Skills
 * Circuit Design
 * Sparse Signal Processing
 * Programming: C, MATLAB, Python, Verilog
+
+If you need my CV in .pdf, please contact me via email: dwgan at stu.xidian.edu.cn
