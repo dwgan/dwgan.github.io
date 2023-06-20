@@ -9,12 +9,12 @@ author_profile: true
 
 ## Papers
 [1] **Orthogonal modulation based light beam induced current method for anti-noise defect detection in photovoltaic cells**\
-Dongwen Gan, Lei Quan, Fan Zhu, Kai Xie, and Junmei Bai\
+**Dongwen Gan**, Lei Quan, Fan Zhu, Kai Xie, and Junmei Bai\
 _Solar Energy_, 2022 (IF: 7.188)\
 [[Paper]](../paper/1-s2.0-S0038092X22006089-main.pdf)
 
 [2] **Pseudo-random sequence coded electroluminescence imaging for photovoltaic module inspection under outdoor ambient light**\
-Fan Zhu, Kai Xie, Dongwen Gan, Lei Quan, and Jingyi Zhu\
+Fan Zhu, Kai Xie, **Dongwen Gan**, Lei Quan, and Jingyi Zhu\
 Submited to [_IEEE Transactions on Instrumentation and Measurement_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=19)
 
 <!--
