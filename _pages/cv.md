@@ -28,4 +28,20 @@ Skills
 * Sparse Signal Processing
 * Programming: C, MATLAB, Python, Verilog
 
+Major Courses
+======
+* Fundamentals of Analog Electronic Technology
+* Digital Circuits and Logic Design
+* Fundamentals of Circuit Analysis
+* Signals and Systems
+* Microcomputer Principle and System Design
+* Principle of Automatic Control
+* Communication Principle
+* Digital Image Processing
+* Digital Signal Processing
+* Stochastic Processes
+* Engineering Optimization Methods
+* Modern Electronic System Engineering Design
+
+
 If you need my CV in .pdf, please contact me via email: dwgan at stu.xidian.edu.cn
