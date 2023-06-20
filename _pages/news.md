@@ -11,7 +11,7 @@ redirect_from:
 
 News
 ======
-* Oct. 2021 ~ Jan. 24, 2022: I was performing a flight mission at Jiuquan Satellite Launch Centre. What an exciting experience. I was responsible for the core communication framework for missile-borne computer. Here is the [report link](https://www.guancha.cn/industry-science/2022_01_24_623388.shtml) about this flight mission.
+* Oct. 2021 ~ Jan. 24, 2022: I was performing a flight mission at _Jiuquan Satellite Launch Centre_. What an exciting experience. I was responsible for the core communication framework for missile-borne computer. Here is the [report link](https://www.guancha.cn/industry-science/2022_01_24_623388.shtml) about this flight mission.
 
 <!--
 * Feb. 2022 ~ May 2022: I was writing my first journal paper. This project had been done since Oct. 2020. It is hard to write a paper in English.
@@ -23,7 +23,7 @@ News
 
 * Oct. 2022 ~ Jan. 2023: I was taking the remote Academic English Communication and Writing Skills Program, held by Girton College, Cambridge. I got Upper Second Class. I really enjoy the interesting communication moment. 
 
-* Oct. 2022 ~ Apr. 10, 2023: I was seeking a job. The employment environment is Very pessimistic this year. Relearning is painful. Finally,  I accept the offer from STMicroelectronics at Shenzhen, after refusing offers from research institutes.
+* Oct. 2022 ~ Apr. 10, 2023: I was seeking a job. The employment environment is Very pessimistic this year. Relearning is painful. Finally,  I accept the offer from _STMicroelectronics_ at Shenzhen rather than research institutes.
 
 * Feb. 2023 ~ May. 2023: I was writing my graduate thesis. I choose a topic that I was interested in but not familiar with. I spent more than a month learning the preliminary knowledge. Designing algorithm and writing thesis are interesting. Finally, I pass the blind review and thesis defense. Here is my [graduate thesis]().
 
