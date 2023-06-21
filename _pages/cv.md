@@ -30,18 +30,22 @@ Skills
 
 Major Courses
 ======
+* Introduction of Computer and C Language Program Design
+* Data structure and algorithm analysis
+* Python Programming and Scientific Computing
+* Principle of pattern recognition
+* Microcomputer Principle and System Design
+* Digital Signal Processing
+* Digital Image Processing
+
 * Fundamentals of Analog Electronic Technology
 * Digital Circuits and Logic Design
 * Fundamentals of Circuit Analysis
 * Signals and Systems
-* Microcomputer Principle and System Design
-* Principle of Automatic Control
-* Communication Principle
-* Digital Image Processing
-* Digital Signal Processing
 * Stochastic Processes
 * Engineering Optimization Methods
-* Modern Electronic System Engineering Design
+* Principle of Automatic Control
+* Communication Principle
 
 
-If you need my CV in .pdf, please contact me via email: dwgan at stu.xidian.edu.cn
+<!--If you are interested in my CV in .pdf, please contact me via email: dwgan[at]stu.xidian.edu.cn-->
