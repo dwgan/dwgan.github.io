@@ -1,7 +1,7 @@
 ---
 layout: archive
-#title: "Miscellanea"
-permalink: /miscellanea/
+#title: "Blog"
+permalink: /blog/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,13 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Recent Hobbies
-======
-* Geek: Technology makes future, here is my [CSDN Blog](https://dwgan.blog.csdn.net/)
-* Guitar: Love music, love life. Here are some [guitar tablature](../music/枫叶城2019.pdf).
-* Swimming: Exercise helps me focus.
-* Billiards, Ping-pong<!--: It is interesting to do kinematic analysis.-->
-
-Future Plan
-=
-* Bungee: Always expecting exciting moments.
+Please see my [CSDN Blog](https://dwgan.blog.csdn.net/)
