@@ -26,8 +26,8 @@ In processing
 -->
 
 ## Chinese Patents
-[1] CN202111400112.2, Nov. 2022.
+[1] A design method for low frequency magnetic receiving antennas, CN202111400112.2, Nov. 24, 2022.
 
-[2] CN202110981312.5, Dec. 2021.
+[2] Orthogonal modulation-based energy efficiency detection method for photovoltaic cells, CN202110981312.5, Dec. 21, 2021.
 
-[3] CN202011001773.3, Dec. 2020.
+[3] A real time dual kernel single machine hardware-in-the-loop simulation architecture and method, CN202011001773.3, Dec. 25, 2020.
