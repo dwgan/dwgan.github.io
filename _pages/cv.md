@@ -16,7 +16,6 @@ Education
 
 Research Interests
 =====
-My research interest includes
 * Detection
 * Compressed Sensing
 * Wireless Communication System in Aerospace Cabin
