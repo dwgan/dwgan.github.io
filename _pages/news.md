@@ -30,3 +30,4 @@ News
 <!--
 * May. 2023 ~ Now: Considering where I will be, what I want to be 
 -->
+* Jun. 25, 2023: I received the Master's degree. Congratulations!
