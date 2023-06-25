@@ -21,13 +21,13 @@ News
 
 * Jun. 2022 ~ Sept. 2022: I was preparing for _IELTS_ test. Spoken English is not easy for me.
 
-* Oct. 2022 ~ Jan. 2023: I was taking the remote Academic English Communication and Writing Skills Program, held by Girton College, Cambridge. I got Upper Second Class. I really enjoy the interesting communication moment. 
+* Oct. 2022 ~ Jan. 2023: I was taking the remote Academic English Communication and Writing Skills Program, held by Girton College, Cambridge. I got an Upper Second Class-level score. I really enjoy the interesting communication moment with varying people from different disciplinary. 
 
-* Oct. 2022 ~ Apr. 10, 2023: I was seeking a job. The employment environment is Very pessimistic this year. Relearning is painful. Finally,  I accept the offer from _STMicroelectronics_ as _Automation Application Engineer_ at Shenzhen, rather than research institutes.
+* Oct. 2022 ~ Apr. 10, 2023: I was seeking a job. The employment environment is Very pessimistic this year. Ultimately,  I received an offer from _STMicroelectronics_ as _Automation Application Engineer_ at Shenzhen. <!--, rather than research institutes.-->
 
 * Feb. 2023 ~ May. 2023: I was writing my graduate thesis. I choose a topic that I was interested in but not familiar with. I spent more than a month learning the preliminary knowledge. Designing algorithm and writing thesis are interesting. Finally, I pass the blind review and thesis defense. Here is my [graduate thesis](../paper/v2.0.17-基于扰动压缩感知的光伏电池表面缺陷抗噪声检测技术研究(最终签名版).pdf).
 
 <!--
 * May. 2023 ~ Now: Considering where I will be, what I want to be 
 -->
-* Jun. 25, 2023: I received the Master's degree. Congratulations!
+* Jun. 25, 2023: I graduated from _Xidian University_ again and received the Master's degree. Congratulations!
