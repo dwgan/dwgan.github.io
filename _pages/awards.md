@@ -1,4 +1,4 @@
----
+wwwwwww---
 layout: archive
 #title: "Awards"
 permalink: /awards/
@@ -17,5 +17,6 @@ Scholarships
 
 Competitions
 ======
+* 2018 National Undergraduate Electronics Design Contest, the Third Prize of Shaanxi province.
 * 2019 National Undergraduate Electronics Design Contest, the Second Prize of Shaanxi province.
 * 2021 China Graduate Future Flight Vehicle Innovation Competition, the Third Prize.
