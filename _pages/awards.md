@@ -1,4 +1,4 @@
-wwwwwww---
+---
 layout: archive
 #title: "Awards"
 permalink: /awards/
