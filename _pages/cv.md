@@ -27,6 +27,7 @@ Skills
 * Sparse Signal Processing
 * Programming: C, MATLAB, Python, Verilog
 
+<!--
 Major Courses
 ======
 * Introduction of Computer and C Language Program Design
@@ -46,7 +47,6 @@ Major Courses
 * Principle of Automatic Control
 * Communication Principle
 
-<!--
 
 If you are interested in my CV in .pdf, please contact me via email: dwgan[at]stu.xidian.edu.cn
 -->
