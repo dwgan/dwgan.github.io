@@ -22,7 +22,7 @@ Research Interests
 
 Skills
 ======
-* Embedded Development
+* Embedded System Development
 * Circuit Design
 * Sparse Signal Processing
 * Programming: C, MATLAB, Python, Verilog
