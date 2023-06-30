@@ -31,3 +31,5 @@ News
 * May. 2023 ~ Now: Considering where I will be, what I want to be 
 -->
 * Jun. 25, 2023: I graduated from _Xidian University_ again and received the Master's degree. Congratulations!
+
+* Jun. 30, 2023: I joined ST (Shenzhen) as an Application Engineer-Automation Competence Centre, starting my new career.
