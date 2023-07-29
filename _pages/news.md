@@ -25,4 +25,4 @@ News
 
 * Aug. 21, 2022: Our paper was accepted by _Solar Energy_. Congratulations!
 
-* Oct. 2021 ~ Jan. 24, 2022: I was performing a flight mission at _Jiuquan Satellite Launch Centre_. What an exciting experience. I was responsible for the core communication framework for missile-borne computer. Here is the [report link](https://www.guancha.cn/industry-science/2022_01_24_623388.shtml) about this flight mission.
+* Oct. 2021 ~ Jan. 24, 2022: I was performing a flight mission at _Jiuquan Satellite Launch Centre_. What an exciting experience. I was responsible for the core communication framework for missile-borne computer. Acknowledge to [_Beijing Skywalk Technology Co., Ltd._](https://www.spacetransportation.com.cn/) Here is the [report link](https://www.guancha.cn/industry-science/2022_01_24_623388.shtml) about this flight mission.
