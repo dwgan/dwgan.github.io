@@ -25,7 +25,7 @@ In processing
 In processing
 -->
 
-## Chinese Patents
+## Chinese Invention Patents
 [1] **A design method for low frequency magnetic receiving antennas**, CN202111400112.2, Nov. 24, 2022.
 
 [2] **Orthogonal modulation-based current map detection method for photovoltaic cells**, CN202110981312.5, Dec. 21, 2021.
