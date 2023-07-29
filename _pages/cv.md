@@ -19,6 +19,8 @@ Research Interests
 * Detection
 * Compressed Sensing
 * Wireless Communication System in Aerospace Cabin
+* Smart Automation
+* Machine Learning (In studying)
 
 Skills
 ======
