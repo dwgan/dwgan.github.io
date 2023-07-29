@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please visit my [CSDN Blog](https://dwgan.blog.csdn.net/)
+Welcome to visit my [CSDN Blog](https://dwgan.blog.csdn.net/)
