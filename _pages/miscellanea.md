@@ -17,6 +17,8 @@ Recent Hobbies
 * Swimming: Exercise helps me focus.
 * Billiards, Ping-pong<!--: It is interesting to do kinematic analysis.-->
 
+<!--
 Future Plan
 =
 * Bungee: Always expecting exciting moments.
+-->
