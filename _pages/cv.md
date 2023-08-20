@@ -16,18 +16,17 @@ Education
 
 Research Interests
 =====
-* Detection
+* Deep Learning
 * Compressed Sensing
+* Detection
 * Wireless Communication System in Aerospace Cabin
 * Smart Automation
-* Machine Learning (In studying)
 
 Skills
 ======
-* Embedded System Development
-* Circuit Design
-* Sparse Signal Processing
-* Programming: C, MATLAB, Python, Verilog
+* Image Processing and Sparse Signal Processing
+* Embedded System Development and Circuit Design
+* Programming: Python (Pytorch), C, MATLAB, Verilog
 
 <!--
 Major Courses
