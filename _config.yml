@@ -83,7 +83,7 @@ author:
   name             : "Dongwen Gan"
   avatar           : "profile.png"
   bio              : "Master from Xidian University"
-  location         : Shenzhen, Guangdong, CN #"Xi'an, Shaanxi, CN"
+  location         : "Shenzhen, Guangdong, CN" # "Xi'an, Shaanxi, CN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
