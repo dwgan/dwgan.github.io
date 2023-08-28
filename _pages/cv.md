@@ -16,38 +16,12 @@ Education
 
 Research Interests
 =====
-* Deep Learning
-* Compressed Sensing
-* Detection
+* Deep Compressed Sensing
 * Wireless Communication System in Aerospace Cabin
 * Smart Automation
 
 Skills
 ======
-* Image Processing and Sparse Signal Processing
+* Programming: Python (Pytorch), C, MATLAB, Verilog, Shell
 * Embedded System Development and Circuit Design
-* Programming: Python (Pytorch), C, MATLAB, Verilog
-
-<!--
-Major Courses
-======
-* Introduction of Computer and C Language Program Design
-* Data structure and algorithm analysis
-* Python Programming and Scientific Computing
-* Principle of pattern recognition
-* Microcomputer Principle and System Design
-* Digital Signal Processing
-* Digital Image Processing
-
-* Fundamentals of Analog Electronic Technology
-* Digital Circuits and Logic Design
-* Fundamentals of Circuit Analysis
-* Signals and Systems
-* Stochastic Processes
-* Engineering Optimization Methods
-* Principle of Automatic Control
-* Communication Principle
-
-
-If you are interested in my CV in .pdf, please contact me via email: dwgan[at]stu.xidian.edu.cn
--->
+* OS: Windows, Linux, RTOS
