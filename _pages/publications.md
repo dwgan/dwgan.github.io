@@ -12,17 +12,23 @@ author_profile: true
 **Dongwen Gan**, Lei Quan, Fan Zhu, Kai Xie, and Junmei Bai\
 _Solar Energy_, 2022 (IF: 7.188)\
 [[Paper]](../paper/1-s2.0-S0038092X22006089-main.pdf)
+
 <!--
+
 [2] **Pseudo-random sequence coded electroluminescence imaging for photovoltaic module inspection under outdoor ambient light**\
 Fan Zhu, Kai Xie, **Dongwen Gan**, Lei Quan, and Jingyi Zhu\
 Submitted to [_IEEE Transactions on Instrumentation and Measurement_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=19)
+
 -->
+
 <!--
+
 [3] **Perturbed compressed sensing-based light beam induced current method for robust defect detection in photovoltaic cells**\
 In processing
 
 [4] **Multispectral compressive light beam induced current method for photovoltaic cell assessment**\
 Submitted to Solar Energy
+
 -->
 
 ## Chinese Invention Patents
