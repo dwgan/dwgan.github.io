@@ -11,7 +11,7 @@ redirect_from:
 
 News
 ======
-* Aug. 20, 2023: Life was busy and fun, I really enjoy it. As an Application Engineer, I was trying to design interesting demos for customs. In addition, I was trying to learn new skills. I was focusing on Deep Learning recently.
+* Aug. 20, 2023: Life was busy and fun, I really enjoy it. As an Application Engineer, I was trying to design interesting demos for enterprises. In addition, I was trying to learn new skills. I was focusing on Deep Learning recently.
 
 * Jun. 30, 2023: I joined _STMicroelectronics_ (Shenzhen) as an Application Engineer at Automation Competence Centre, starting my new career.
 
