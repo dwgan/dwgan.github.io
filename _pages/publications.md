@@ -13,6 +13,10 @@ author_profile: true
 _Solar Energy_, 2022 (IF: 7.188)\
 [[Paper]](../paper/1-s2.0-S0038092X22006089-main.pdf)
 
+[2] **Multispectral compressive light beam induced current method for photovoltaic cell assessment**\
+Fan Zhu, Kai Xie, Lei Quan, and Dongwen Gan\
+_Solar Energy_, Major Revision\
+
 <!--
 
 [2] **Pseudo-random sequence coded electroluminescence imaging for photovoltaic module inspection under outdoor ambient light**\
