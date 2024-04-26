@@ -14,11 +14,12 @@ Recent Hobbies
 <!--* Geek: Technology makes future, here is my [CSDN Blog](https://dwgan.blog.csdn.net/)
 -->
 * Guitar: Love music, love life. Here are some [guitar tablature](../music/枫叶城2019.pdf).
-* Swimming: Exercise helps me focus.
+* Swimming, Badminton: Exercise helps me focus.
 * Billiards, Ping-pong<!--: It is interesting to do kinematic analysis.-->
 
 <!--
 Future Plan
 =
+
 * Bungee: Always expecting exciting moments.
 -->
