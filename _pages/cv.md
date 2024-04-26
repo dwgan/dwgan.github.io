@@ -17,8 +17,10 @@ Education
 Research Interests
 =====
 * Deep Compressed Sensing
+* Image Processing
+* Embedded Development
 * Wireless Communication System in Aerospace Cabin
-* Smart Automation
+* Smart Home/Building Automation
 
 Skills
 ======
