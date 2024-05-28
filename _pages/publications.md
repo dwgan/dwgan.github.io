@@ -15,25 +15,16 @@ _Solar Energy_, 2022 (IF: 7.188)\
 
 [2] **Multispectral compressive light beam induced current method for photovoltaic cell assessment**\
 Fan Zhu, Kai Xie, Lei Quan, and Dongwen Gan\
-_Solar Energy_, Major Revision
+_Solar Energy_, 2024 (IF: 6.7)\
 
-<!--
+[[Paper]](../paper/1-s2.0-S0038092X24003165-main.pdf)
 
-[2] **Pseudo-random sequence coded electroluminescence imaging for photovoltaic module inspection under outdoor ambient light**\
+[3] **Pseudo-random sequence coded electroluminescence imaging for photovoltaic module inspection under outdoor ambient light**\
 Fan Zhu, Kai Xie, **Dongwen Gan**, Lei Quan, and Jingyi Zhu\
-Submitted to [_IEEE Transactions on Instrumentation and Measurement_](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=19)
+Submitted to [IEEE Journal of Photovoltaics - IEEE Photonics Society](https://ieeephotonics.org/publications/journal-of-photovoltaics/)
 
--->
-
-<!--
-
-[3] **Perturbed compressed sensing-based light beam induced current method for robust defect detection in photovoltaic cells**\
+[4] **Perturbed compressed sensing-based light beam induced current method for robust defect detection in photovoltaic cells**\
 In processing
-
-[4] **Multispectral compressive light beam induced current method for photovoltaic cell assessment**\
-Submitted to Solar Energy
-
--->
 
 ## Chinese Invention Patents
 [1] **A design method for low frequency magnetic receiving antennas**, CN202111400112.2, Nov. 24, 2022.
