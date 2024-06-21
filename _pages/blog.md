@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome to visit my [CSDN Blog](https://dwgan.blog.csdn.net/)
+My Blog is about Embedded Development and Deep Learning. Welcome to visit my [CSDN Blog](https://dwgan.blog.csdn.net/)
+
+I built a **Super Server Platform** for multiple online user, which is based on **Linux Container**. Some note can be found [here](https://dwgan.github.io/super-server-platform/) if you are interested.
