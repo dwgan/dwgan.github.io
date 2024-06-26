@@ -9,8 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Find my CV [here](../files/CV.pdf)
+
+<!--
+
 Education
 ======
+
 * M.S. in Instrument Science and Technology, Xidian University, 2023
 * B.S. in Detecting Guidance and Control Technique, Xidian University, 2020
 
@@ -27,3 +32,5 @@ Skills
 * Programming: Python (Pytorch), C, MATLAB, Verilog, Shell
 * Embedded System Development and Circuit Design
 * OS: Windows, Linux, RTOS
+
+-->
