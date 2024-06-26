@@ -47,7 +47,7 @@ _Solar Energy_, 2022 (IF: 7.188)\
 
 
 [2] **Multispectral compressive light beam induced current method for photovoltaic cell assessment**\
-Fan Zhu, Kai Xie, Lei Quan, and Dongwen Gan\
+Fan Zhu, Kai Xie, Lei Quan, and **Dongwen Gan**\
 _Solar Energy_, 2024 (IF: 6.7)\
 [[Paper]](../paper/1-s2.0-S0038092X24003165-main.pdf)\
 <img src="../images/MCLBIC.png" style="zoom: 40%;" />
