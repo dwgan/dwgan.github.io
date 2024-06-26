@@ -40,11 +40,11 @@ My research interest includes **Deep Learning**, **Compressed Sensing**, **Wirel
 
 [1] **Orthogonal modulation based light beam induced current method for anti-noise defect detection in photovoltaic cells**\
 
-<img src="../images/OMLBIC.png" style="zoom: 33%;" />
-
 **Dongwen Gan**, Lei Quan, Fan Zhu, Kai Xie, and Junmei Bai\
 _Solar Energy_, 2022 (IF: 7.188)\
 [[Paper]](../paper/1-s2.0-S0038092X22006089-main.pdf)
+
+<img src="../images/OMLBIC.png" style="zoom: 33%;" />
 
 
 
