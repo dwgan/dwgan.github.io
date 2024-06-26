@@ -30,6 +30,7 @@ My research interest includes **Deep Learning**, **Compressed Sensing**, **Wirel
 * 2019 National Undergraduate Electronics Design Contest, Department of Education of Shaanxi Province
 * 2021 China Graduate Future Flight Vehicle Innovation Competition.
 * 2022 Academic English Communication and Writing Skills Program, Cambridge, Upper Second Class.
+* 2024 Top 30 Digital Intelligence Application Award, Guangzhou Electrical Building Technology Committee and Alighting Award Committee
 
 
 
