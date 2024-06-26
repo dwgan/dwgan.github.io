@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+## About Me
 
 Hi there, Wellcome to my homepage!
 
-I am recently an Application Engineer at **STMicroelectronics** (Shenzhen). My team mainly focus on **Industrial Automation** and **Smart Home/Building Automation**
+I am recently an Application Engineer at **STMicroelectronics** (Shenzhen). My team mainly focus on Industrial Automation and Smart Home/Building Automation
 
 I received the Master degree from **Xidian University**, China. I spent a wonderful time working closely with Prof. [Lei Quan](https://web.xidian.edu.cn/quanlei/) and Prof. [Kai Xie](https://faculty.xidian.edu.cn/XK3/zh_CN/index.htm) at [GATE](https://faculty.xidian.edu.cn/XK3/zh_CN/index.htm) Lab.
 
@@ -20,24 +20,22 @@ Previously, I received the B.E. degree from Xidian University, China.
 
 
 Education
-======
+------
 
 * M.S. in Instrument Science and Technology, Xidian University, 2023
 * B.S. in Detecting Guidance and Control Technique, Xidian University, 2020
 
 
 
-# Award
+## Award
 
-Scholarships
-------
+### Scholarships
 
 * 2019 National Encouragement Scholarship.
 * 2022 National Scholarship.
 * 2022 China Aerospace Science and Technology Corporation (CASC) Scholarship.
 
-Competitions
-------
+### Competitions
 
 * 2018 National Undergraduate Electronics Design Contest.
 * 2019 National Undergraduate Electronics Design Contest.
@@ -45,9 +43,9 @@ Competitions
 
 
 
-# Publications
+## Publications
 
-## Papers
+### Papers
 
 [1] **Orthogonal modulation based light beam induced current method for anti-noise defect detection in photovoltaic cells**\
 **Dongwen Gan**, Lei Quan, Fan Zhu, Kai Xie, and Junmei Bai\
@@ -66,7 +64,7 @@ Submitted to [IEEE Journal of Photovoltaics - IEEE Photonics Society](https://ie
 [4] **Perturbed compressed sensing-based light beam induced current method for robust defect detection in photovoltaic cells**\
 In processing
 
-## Chinese Invention Patents
+### Chinese Invention Patents
 
 [1] **一种低频磁性接收天线的设计方法**, CN114122708B, 2022-11-29.
 
@@ -85,7 +83,7 @@ In processing
 
 
 Research Interests
-=====
+-----
 
 * Deep Compressed Sensing
 * Image Processing
@@ -96,7 +94,7 @@ Research Interests
 
 
 Skills
-======
+------
 
 * Programming: Python (Pytorch), C, MATLAB, Verilog, Shell
 * Embedded System Development and Circuit Design
