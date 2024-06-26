@@ -38,44 +38,38 @@ My research interest includes **Deep Learning**, **Compressed Sensing**, **Wirel
 
 # Publications
 
-[1] **Orthogonal modulation based light beam induced current method for anti-noise defect detection in photovoltaic cells**
-
+[1] **Orthogonal modulation based light beam induced current method for anti-noise defect detection in photovoltaic cells**\
 **Dongwen Gan**, Lei Quan, Fan Zhu, Kai Xie, and Junmei Bai\
 _Solar Energy_, 2022 (IF: 7.188)\
-[[Paper]](../paper/1-s2.0-S0038092X22006089-main.pdf)
-
+[[Paper]](../paper/1-s2.0-S0038092X22006089-main.pdf)\
 <img src="../images/OMLBIC.png" style="zoom: 33%;" />
 
 
 
-[2] **Multispectral compressive light beam induced current method for photovoltaic cell assessment**
-
+[2] **Multispectral compressive light beam induced current method for photovoltaic cell assessment**\
 Fan Zhu, Kai Xie, Lei Quan, and Dongwen Gan\
 _Solar Energy_, 2024 (IF: 6.7)\
-[[Paper]](../paper/1-s2.0-S0038092X24003165-main.pdf)
-
-<img src="../images/MCLBIC.png" style="zoom: 50%;" />
-
+[[Paper]](../paper/1-s2.0-S0038092X24003165-main.pdf)\
+<img src="../images/MCLBIC.png" style="zoom: 40%;" />
 
 
-[3] **Pseudo-random sequence coded electroluminescence imaging for photovoltaic module inspection under outdoor ambient light**
 
+[3] **Pseudo-random sequence coded electroluminescence imaging for photovoltaic module inspection under outdoor ambient light**\
 Fan Zhu, Kai Xie, **Dongwen Gan**, Lei Quan, and Jingyi Zhu\
-Submitted to [IEEE Journal of Photovoltaics - IEEE Photonics Society](https://ieeephotonics.org/publications/journal-of-photovoltaics/)
-
+Submitted to [IEEE Journal of Photovoltaics - IEEE Photonics Society](https://ieeephotonics.org/publications/journal-of-photovoltaics/)\
 <img src="../images/PRSCEL.png" style="zoom: 33%;" />
 
 
 
-[4] **The fast compressed light-beam-induced current method for solar cells detection based on the structural random matrix**
+[4] **The fast compressed light-beam-induced current method for solar cells detection based on the structural random matrix**\
 Fan Zhu, Kai Xie, Lei Quan, **Dongwen Gan**, and Siyu Zhao\
 Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/solar-energy)
 
-[5] **Perturbed compressed sensing-based light beam induced current method for robust defect detection in photovoltaic cells**
 
-In processing
 
-<img src="../images/PCSLBIC.png" style="zoom:50%;" />
+[5] **Perturbed compressed sensing-based light beam induced current method for robust defect detection in photovoltaic cells**\
+In processing\
+<img src="../images/PCSLBIC.png" style="zoom:40%;" />
 
 
 
