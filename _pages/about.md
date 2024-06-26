@@ -53,7 +53,11 @@ _Solar Energy_, 2024 (IF: 6.7)\
 Fan Zhu, Kai Xie, **Dongwen Gan**, Lei Quan, and Jingyi Zhu\
 Submitted to [IEEE Journal of Photovoltaics - IEEE Photonics Society](https://ieeephotonics.org/publications/journal-of-photovoltaics/)
 
-[4] **Perturbed compressed sensing-based light beam induced current method for robust defect detection in photovoltaic cells**\
+[4] **The fast compressed light-beam-induced current method for solar cells detection based on the structural random matrix**\
+Fan Zhu, Kai Xie, Lei Quan, **Dongwen Gan**, and Siyu Zhao\
+Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/solar-energy)
+
+[5] **Perturbed compressed sensing-based light beam induced current method for robust defect detection in photovoltaic cells**\
 In processing
 
 [1] **一种低频磁性接收天线的设计方法**, CN114122708B, 2022-11-29.

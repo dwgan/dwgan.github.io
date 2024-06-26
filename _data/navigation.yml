@@ -9,8 +9,8 @@ main:
 #  - title: "Awards"
 #    url: /awards/
     
-  - title: "News"
-    url: /news/
+#  - title: "News"
+#    url: /news/
     
   - title: "Blog"
     url: /blog/
