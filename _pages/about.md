@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "About me"
 excerpt: "Learn more about me"
 author_profile: true
 redirect_from: 
@@ -7,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+
 
 Hi there, Wellcome to my homepage!
 
