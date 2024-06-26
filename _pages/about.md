@@ -16,7 +16,7 @@ My name is **Dongwen Gan** (**甘东文**).
 
 I am recently a System Application Engineer at **STMicroelectronics** (Shenzhen).
 
-I received the Master degree from **Xidian University**, China. I spent a wonderful time working closely with Prof. [Lei Quan](https://web.xidian.edu.cn/quanlei/) and Prof. [Kai Xie](https://faculty.xidian.edu.cn/XK3/zh_CN/index.htm) at [GATE](https://faculty.xidian.edu.cn/XK3/zh_CN/index.htm) Lab.
+I received the Master degree from **Xidian University**, China. I spent a wonderful time working closely with Prof. [Lei Quan](https://faculty.xidian.edu.cn/QL3/zh_CN/index/390349/list/index.htm) and Prof. [Kai Xie](https://faculty.xidian.edu.cn/XK3/zh_CN/index.htm) at [GATE](https://faculty.xidian.edu.cn/XK3/zh_CN/index.htm) Lab.
 
 Previously, I received the B.E. degree from Xidian University, China. 
 
