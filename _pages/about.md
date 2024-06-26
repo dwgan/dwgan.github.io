@@ -10,6 +10,8 @@ redirect_from:
 
 
 
+# About Me
+
 Hi there, Wellcome to my homepage!
 
 I am recently an Application Engineer at STMicroelectronics (Shenzhen).
@@ -18,41 +20,35 @@ I received the Master degree from Xidian University, China. I spent a wonderful 
 
 Previously, I received the B.E. degree from Xidian University, China. 
 
+
+
 Education
 ======
 
 * M.S. in Instrument Science and Technology, Xidian University, 2023
 * B.S. in Detecting Guidance and Control Technique, Xidian University, 2020
 
-Research Interests
-=====
 
-* Deep Compressed Sensing
-* Image Processing
-* Embedded Development
-* Wireless Communication System in Aerospace Cabin
-* Smart Home/Building Automation
 
-Skills
-======
-
-* Programming: Python (Pytorch), C, MATLAB, Verilog, Shell
-* Embedded System Development and Circuit Design
-* OS: Windows, Linux, RTOS
+# Award
 
 Scholarships
-======
+------
 
 * 2019 National Encouragement Scholarship.
 * 2022 National Scholarship.
 * 2022 China Aerospace Science and Technology Corporation (CASC) Scholarship.
 
 Competitions
-======
+------
 
 * 2018 National Undergraduate Electronics Design Contest.
 * 2019 National Undergraduate Electronics Design Contest.
 * 2021 China Graduate Future Flight Vehicle Innovation Competition.
+
+
+
+# Publications
 
 ## Papers
 
@@ -88,3 +84,24 @@ In processing
 
 [3] **A real time dual kernel single machine hardware-in-the-loop simulation architecture and method**, CN202011001773.3, Dec. 25, 2020.
 -->
+
+
+
+Research Interests
+=====
+
+* Deep Compressed Sensing
+* Image Processing
+* Embedded Development
+* Wireless Communication System in Aerospace Cabin
+* Smart Home/Building Automation
+
+
+
+Skills
+======
+
+* Programming: Python (Pytorch), C, MATLAB, Verilog, Shell
+* Embedded System Development and Circuit Design
+* OS: Windows, Linux, RTOS
+
