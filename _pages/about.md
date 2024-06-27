@@ -24,7 +24,7 @@ My research interest includes **Deep Learning**, **Compressed Sensing**, **Wirel
 
 
 
-# Scholarships and Honors 
+## Scholarships and Honors 
 
 * 2019 National Encouragement Scholarship, Department of Education of Shaanxi Province
 * 2022 National Scholarship, Ministry of Education of the People's Republic of China.
@@ -36,7 +36,7 @@ My research interest includes **Deep Learning**, **Compressed Sensing**, **Wirel
 
 
 
-# Publications
+## Publications
 
 [1] **Orthogonal modulation based light beam induced current method for anti-noise defect detection in photovoltaic cells**\
 **Dongwen Gan**, Lei Quan, Fan Zhu, Kai Xie, and Junmei Bai\
@@ -82,7 +82,7 @@ In processing\
 
 
 Skills
-======
+------
 
 * High Reliable Embedded System Development and Circuit Design
 * Programming: Python (Pytorch), C, MATLAB, Verilog, Shell
