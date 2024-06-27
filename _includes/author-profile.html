@@ -23,7 +23,12 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.csdn %}
-        <li><i class="https://upload.wikimedia.org/wikipedia/commons/d/dc/CSDN_Logo.svg" aria-hidden="true"></i> {{ author.csdn }}</li>
+        <li>
+          <a href="{{ author.csdn }}">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/CSDN_Logo.svg" alt="CSDN" style="height: 20px;">
+            CSDN
+          </a>
+        </li>
       {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
