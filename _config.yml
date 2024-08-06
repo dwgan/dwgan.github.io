@@ -83,7 +83,7 @@ author:
   name             : "Dongwen Gan"
   avatar           : "profile.png"
   bio              : "Master from Xidian University"
-  location         : "Shenzhen, Guangdong, CN" # "Xi'an, Shaanxi, CN"
+  location         : "Shenzhen, CN" # "Xi'an, Shaanxi, CN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -91,7 +91,7 @@ author:
   csdn             : "https://dwgan.blog.csdn.net"
   email            : "dwgan@stu.xidian.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://dwgan.blog.csdn.net"
   bitbucket        :
   codepen          :
   dribbble         :
