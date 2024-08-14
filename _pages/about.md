@@ -24,6 +24,10 @@ My research interest includes **Deep Learning**, **Compressed Sensing**, **Wirel
 
 
 
+---
+
+
+
 # Scholarships and Honors
 
 * 2019 National Encouragement Scholarship, Department of Education of Shaanxi Province
@@ -33,6 +37,10 @@ My research interest includes **Deep Learning**, **Compressed Sensing**, **Wirel
 * 2021 China Graduate Future Flight Vehicle Innovation Competition.
 * 2022 Academic English Communication and Writing Skills Program, Cambridge, Upper Second Class.
 * 2024 Top 30 Digital Intelligence Application Award, Guangzhou Electrical Building Technology Committee and Alighting Award Committee
+
+
+
+---
 
 
 
@@ -89,6 +97,10 @@ In processing
 
 
 
+---
+
+
+
 # Research Interest
 
 My research is primarily centered around two key areas: **Deep Learning** and the **Internet of Things (IoT)**. I am deeply passionate about advancing the capabilities of neural networks through innovative models, as well as contributing to the development of smart home technologies using cutting-edge IoT solutions. These two fields represent the forefront of technology, driving both the evolution of artificial intelligence and the realization of intelligent, interconnected environments.
@@ -110,6 +122,10 @@ As a System Application Engineer at ST, I specialize in IoT applications for sma
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/dwgan/PicGo@main/img/202408142105445.jpeg" style="zoom: 33%;" />
 </p>
+
+
+
+---
 
 
 
