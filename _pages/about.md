@@ -41,7 +41,7 @@ My research interest includes **Deep Learning**, **Compressed Sensing**, **Wirel
 [1] **Orthogonal modulation based light beam induced current method for anti-noise defect detection in photovoltaic cells**\
 **Dongwen Gan**, Lei Quan, Fan Zhu, Kai Xie, and Junmei Bai\
 _Solar Energy_, 2022 (IF: 7.188)\
-[[Paper]](../files/1-s2.0-S0038092X22006089-main.pdf)\
+[[Paper]](../files/1-s2.0-S0038092X22006089-main.pdf)
 
 <p align="center">
     <img src="../images/OMLBIC.png" style="zoom: 33%;" />
@@ -52,7 +52,7 @@ _Solar Energy_, 2022 (IF: 7.188)\
 [2] **Multispectral compressive light beam induced current method for photovoltaic cell assessment**\
 Fan Zhu, Kai Xie, Lei Quan, and **Dongwen Gan**\
 _Solar Energy_, 2024 (IF: 6.7)\
-[[Paper]](../files/1-s2.0-S0038092X24003165-main.pdf)\
+[[Paper]](../files/1-s2.0-S0038092X24003165-main.pdf)
 
 <p align="center">
     <img src="../images/MCLBIC.png" style="zoom: 40%;" />
@@ -62,7 +62,8 @@ _Solar Energy_, 2024 (IF: 6.7)\
 
 [3] **Pseudo-random sequence coded electroluminescence imaging for photovoltaic module inspection under outdoor ambient light**\
 Fan Zhu, Kai Xie, **Dongwen Gan**, Lei Quan, and Jingyi Zhu\
-Submitted to [IEEE Journal of Photovoltaics - IEEE Photonics Society](https://ieeephotonics.org/publications/journal-of-photovoltaics/)\
+Submitted to [IEEE Journal of Photovoltaics - IEEE Photonics Society](https://ieeephotonics.org/publications/journal-of-photovoltaics/)
+
 
 
 [4] **The fast compressed light-beam-induced current method for solar cells detection based on the structural random matrix**\
@@ -72,7 +73,7 @@ Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://ww
 
 
 [5] **Perturbed compressed sensing-based light beam induced current method for robust defect detection in photovoltaic cells**\
-In processing\
+In processing
 
 <p align="center">
     <img src="../images/PCSLBIC.png" style="zoom:40%;" />
@@ -92,8 +93,6 @@ In processing\
 
 My research is primarily centered around two key areas: **Deep Learning** and the **Internet of Things (IoT)**. I am deeply passionate about advancing the capabilities of neural networks through innovative models, as well as contributing to the development of smart home technologies using cutting-edge IoT solutions. These two fields represent the forefront of technology, driving both the evolution of artificial intelligence and the realization of intelligent, interconnected environments.
 
-
-
 ## Deep Learning
 
 I am currently focused on exploring new models, such as Mamba, to replace traditional Transformer-based architectures. My goal is to achieve more efficient representation and reduced complexity in neural networks. My research particularly targets vision tasks like image compressed sensing, where the objective is to recover higher quality images using fewer samples, requiring enhanced expressive power in neural networks. [Learn more](https://dwgan.top/blog/)
@@ -111,6 +110,8 @@ As a System Application Engineer at ST, I specialize in IoT applications for sma
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/dwgan/PicGo@main/img/202408142105445.jpeg" style="zoom: 33%;" />
 </p>
+
+
 
 Skills
 ======
