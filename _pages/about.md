@@ -121,7 +121,7 @@ I am currently focused on exploring new models, such as Mamba, to replace tradit
 As a System Application Engineer at ST, I specialize in IoT applications for smart homes, with a primary focus on advancing the IoT ecosystem. One key area of our work is promoting the KNX standard, a leading international protocol in smart home automation that ensures seamless compatibility and plug-and-play functionality across devices. We’ve developed various demos to showcase the integration of ST’s products, such as STM32 microcontrollers, communication interface chips, KNX protocol chips, IO-Link protocol chips, edge AI sensors, DC-DC converters, and energy harvesting chips. Our demos include smart charging stations, mini IoT houses, photovoltaic energy storage and harvesting, IoT sensors, KNX-based smart building management systems, and solutions for remote network monitoring and intranet penetration. [Learn more](https://dwgan.top/blog/)
 
 <p align="center">
-  <img src="https://pic.dwgan.top/img/202408142105445.jpeg" style="zoom: 33%;" />
+  <img src="https://dwgan.top/PicGo/img/202408142105445.jpeg" style="zoom: 33%;" />
 </p>
 
 
