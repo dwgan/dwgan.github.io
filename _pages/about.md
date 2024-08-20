@@ -80,8 +80,9 @@ Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://ww
 
 
 
-[5] **Perturbed compressed sensing-based light beam induced current method for robust defect detection in photovoltaic cells**\
-In processing
+[5] **Perturbed compressive-based light beam induced current method for anti-noise defect detection in photovoltaic cells**\
+Zhikuan Zhao, Lei Quan, **Dongwen Gan**, Siyu Zhao, Ruiyang Zhuang\
+Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/solar-energy)
 
 <p align="center">
     <img src="../images/PCSLBIC.png" style="zoom:40%;" />
@@ -112,6 +113,7 @@ I am currently focused on exploring new models, such as Mamba, to replace tradit
 <p align="center">
     <img src="https://dwgan.top/PicGo/img/202408171956304.png" alt="image-20240814213414447" style="zoom: 30%;" />
 </p>
+
 
 
 
