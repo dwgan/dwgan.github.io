@@ -104,15 +104,30 @@ Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://ww
 
 # Research Interest
 
-My research is primarily centered around two key areas: **Deep Learning** and the **Internet of Things (IoT)**. I am deeply passionate about advancing the capabilities of neural networks through innovative models, as well as contributing to the development of smart home technologies using cutting-edge IoT solutions. These two fields represent the forefront of technology, driving both the evolution of artificial intelligence and the realization of intelligent, interconnected environments.
+My research is primarily centered around those key areas: **Compressed Sensing**, **Deep Learning** and the **Internet of Things**.
+
+For compressed sensing, my recent interest is to develop perturbed compressed sensing theory, which not only consider the measurement noise but also take the noise of the sensing matrix into account.
+
+For deep learning, I am deeply passionate about advancing the capabilities of neural networks through innovative models for vision tasks.
+
+For internet of thing, I am focusing on develop the ecosystem of smart home technologies using STMicroelectronics products.
+
+## Compressed Sensing
+
+<p align="center">
+	<img src="https://dwgan.top/PicGo/img/202408241751483.png" alt="Figures" style="zoom:12%;" />
+</p>
+
+
 
 ## Deep Learning
 
 I am currently focused on exploring new models, such as Mamba, to replace traditional Transformer-based architectures. My goal is to achieve more efficient representation and reduced complexity in neural networks. My research particularly targets vision tasks like image compressed sensing, where the objective is to recover higher quality images using fewer samples, requiring enhanced expressive power in neural networks. [Learn more](https://dwgan.top/blog/)
 
 <p align="center">
-    <img src="https://dwgan.top/PicGo/img/202408171956304.png" alt="image-20240814213414447" style="zoom: 30%;" />
+    <img src="https://dwgan.top/PicGo/img/202408171956304.png" alt="image-20240814213414447" style="zoom: 23%;" />
 </p>
+
 
 
 
