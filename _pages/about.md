@@ -67,26 +67,30 @@ _Solar Energy_, 2024 (IF: 6.7)\
 </p>
 
 
-
 [3] **Pseudo-random sequence coded electroluminescence imaging for photovoltaic module inspection under outdoor ambient light**\
 Fan Zhu, Kai Xie, **Dongwen Gan**, Lei Quan, and Jingyi Zhu\
-Submitted to [IEEE Journal of Photovoltaics - IEEE Photonics Society](https://ieeephotonics.org/publications/journal-of-photovoltaics/)
+Submitted to [IEEE Journal of Photovoltaics - IEEE Photonics Society](https://ieeephotonics.org/publications/journal-of-photovoltaics/) [Major revision]
 
 
 
 [4] **The fast compressed light-beam-induced current method for solar cells detection based on the structural random matrix**\
 Fan Zhu, Kai Xie, Lei Quan, **Dongwen Gan**, and Siyu Zhao\
-Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/solar-energy)
+Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/solar-energy) [Under review]
 
 
 
 [5] **Perturbed compressive-based light beam induced current method for anti-noise defect detection in photovoltaic cells**\
 Zhikuan Zhao, Lei Quan, **Dongwen Gan**, Siyu Zhao, Ruiyang Zhuang\
-Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/solar-energy)
+Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/solar-energy) [Under review]
 
 <p align="center">
     <img src="../images/PCSLBIC.png" style="zoom:40%;" />
 </p>
+
+
+[6] **FastPCS: On the Equivalence of Perturbed Compressed Sensing Algorithm**\
+**Dongwen Gan**\
+[In processing]
 
 
 
