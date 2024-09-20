@@ -46,8 +46,6 @@ My research interest includes **Deep Learning**, **Compressed Sensing**, **Smart
 
 # Publications
 
-### Paper
-
 [1] **Orthogonal modulation based light beam induced current method for anti-noise defect detection in photovoltaic cells**\
 **Dongwen Gan**, Lei Quan, Fan Zhu, Kai Xie, and Junmei Bai\
 _Solar Energy_, 2022 (IF: 7.188)\
@@ -67,7 +65,6 @@ _Solar Energy_, 2024 (IF: 6.7)\
 <p align="center">
     <img src="../images/MCLBIC.png" style="zoom: 30%;" />
 </p>
-
 
 
 [3] **Pseudo-random sequence coded electroluminescence imaging for photovoltaic module inspection under outdoor ambient light**\
@@ -99,9 +96,13 @@ Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://ww
 
 
 
----
+[7] **MambaCS: SSM-based architecture for Image Compressed Sensing**\
+**Dongwen Gan**\
+[In processing]
 
-### Patent
+
+
+---
 
 [1] **一种低频磁性接收天线的设计方法**, CN114122708B, 2022-11-29.
 
@@ -144,8 +145,6 @@ I am currently focused on exploring new models, such as Mamba, to replace tradit
 
 
 
-
-
 ## Smart Industrial
 
 For internet of thing, I am focusing on develop the ecosystem of smart home technologies using STMicroelectronics products.
@@ -155,6 +154,24 @@ As a System Application Engineer at ST, I specialize in smart industrial applica
 <p align="center">
   <img src="https://dwgan.top/PicGo/img/202408142105445.jpeg" style="zoom: 33%;" />
 </p>
+
+
+## Intelligent Communication System for Aircraft
+
+For Wireless Communication, I am focusing on develop the communication devices used for wireless data, instruction transmission inside the cabin of rocket.
+
+Since 2020 to 2023, I was participated in some project that provided aerospace devices for Commercial Aerospace Company like [Beijing Skywalk Technology Co., Ltd.](http://www.spacetransportation.com.cn/) During this period, I was able to design high-reliable hardware and software for aerospace devices as well as solve some problem using wireless communication. I learned how to solve those hard problems in aerospace devices using a systems engineering mindset.
+
+Aim to empowering the next generation of intelligent aircraft communication systems, we addresses challenges in the application of new technologies, leveraging existing industrial technologies for low-cost, rapid iteration of aircraft devices. My primary focus is on in-cabin wireless communication, wireless power transfer, and onboard central computer for rocket.
+
+Utilizing ultra wide band (UWB) wireless communication technology, we solve some wireless communication challenges including high-rate transmission (camera data), time-sensitive transmission (synchronous data), high-reliable transmission (instruction data) and wireless networking (hard to realize by wire communication). We also solve problem of wireless power and proposed unified core communication framework for missile-borne computer.
+
+All devices are verified through aerospace experiment and flight missions.
+
+<p align="center">
+  <img src="https://dwgan.top/PicGo/img/202409210116738.png" style="zoom: 65%;" />
+</p>
+
 
 
 
