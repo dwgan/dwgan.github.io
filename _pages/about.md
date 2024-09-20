@@ -14,11 +14,11 @@ Hi there, wellcome to my homepage!
 
 My name is **Dongwen Gan** (**甘东文**).
 
-I am recently a System Application Engineer at [**STMicroelectronics**](https://www.st.com/) (Shenzhen).
+I am recently a System Application Engineer at [**STMicroelectronics**](https://www.st.com/) (Shenzhen), since 2023.
 
-I received the Master degree from [**Xidian University**](https://en.wikipedia.org/wiki/Xidian_University), China. I spent a wonderful time working closely with Prof. Lei Quan and Prof. Kai Xie at [GATE](https://faculty.xidian.edu.cn/XK3/zh_CN/index.htm) Lab.
+I received the Master degree from [**Xidian University**](https://en.wikipedia.org/wiki/Xidian_University), China, in 2023. I spent a wonderful time working closely with Prof. Lei Quan and Prof. Kai Xie at [GATE](https://faculty.xidian.edu.cn/XK3/zh_CN/index.htm) Lab.
 
-Previously, I received the B.E. degree from Xidian University, China. 
+Previously, I received the B.E. degree from Xidian University, China, in 2020.
 
 My research interest includes **Deep Learning**, **Compressed Sensing**, **Smart Industrial** and **Wireless Communication**
 
