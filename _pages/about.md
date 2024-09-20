@@ -14,7 +14,7 @@ Hi there, wellcome to my homepage!
 
 My name is **Dongwen Gan** (**甘东文**).
 
-I am recently a System Application Engineer at **STMicroelectronics** (Shenzhen).
+I am recently a System Application Engineer at [**STMicroelectronics**](https://www.st.com/) (Shenzhen).
 
 I received the Master degree from [**Xidian University**](https://en.wikipedia.org/wiki/Xidian_University), China. I spent a wonderful time working closely with Prof. Lei Quan and Prof. Kai Xie at [GATE](https://faculty.xidian.edu.cn/XK3/zh_CN/index.htm) Lab.
 
@@ -142,9 +142,9 @@ I am currently focused on exploring new models, such as Mamba, to replace tradit
 
 
 
-## Internet of Things
+## Smart Industrial
 
-As a System Application Engineer at ST, I specialize in IoT applications for smart homes, with a primary focus on advancing the IoT ecosystem. One key area of our work is promoting the KNX standard, a leading international protocol in smart home automation that ensures seamless compatibility and plug-and-play functionality across devices. We’ve developed various demos to showcase the integration of ST’s products, such as STM32 microcontrollers, communication interface chips, KNX protocol chips, IO-Link protocol chips, edge AI sensors, DC-DC converters, and energy harvesting chips. Our demos include smart charging stations, mini IoT houses, photovoltaic energy storage and harvesting, IoT sensors, KNX-based smart building management systems, and solutions for remote network monitoring and intranet penetration. [Learn more](https://dwgan.top/blog/)
+As a System Application Engineer at ST, I specialize in smart industrial applications for smart homes, with a primary focus on advancing the ecosystem. One key area of our work is promoting the KNX standard, a leading international protocol in smart home automation that ensures seamless compatibility and plug-and-play functionality across devices. We’ve developed various demos to showcase the integration of ST’s products, such as STM32 MCU/MPU, chips, KNX protocol chips, IO-Link protocol chips, edge AI sensors, DC-DC converters, and energy harvesting chips. Our demos include smart charging stations, mini IoT houses, photovoltaic energy storage and harvesting, IoT sensors, KNX-based smart building management systems, and solutions for remote network monitoring and intranet penetration. [Learn more](https://dwgan.top/blog/)
 
 <p align="center">
   <img src="https://dwgan.top/PicGo/img/202408142105445.jpeg" style="zoom: 33%;" />
