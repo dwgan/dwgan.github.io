@@ -20,13 +20,13 @@ I received the Master degree from [**Xidian University**](https://en.wikipedia.o
 
 Previously, I received the B.E. degree from Xidian University, China. 
 
-My research interest includes **Deep Learning**, **Compressed Sensing**, **Wireless Communication**，**Internet of Things**, and **Embedded Development**
+My research interest includes **Deep Learning**, **Compressed Sensing**, **Smart Industrial** and **Wireless Communication**
 
 
 
 ---
 
-
+---
 
 # Scholarships and Honors
 
@@ -42,9 +42,11 @@ My research interest includes **Deep Learning**, **Compressed Sensing**, **Wirel
 
 ---
 
-
+---
 
 # Publications
+
+### Paper
 
 [1] **Orthogonal modulation based light beam induced current method for anti-noise defect detection in photovoltaic cells**\
 **Dongwen Gan**, Lei Quan, Fan Zhu, Kai Xie, and Junmei Bai\
@@ -97,6 +99,10 @@ Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://ww
 
 
 
+---
+
+### Patent
+
 [1] **一种低频磁性接收天线的设计方法**, CN114122708B, 2022-11-29.
 
 [2] **基于正交调制的光伏电池能效图测量方法**, CN113824400B, 2023-08-22.
@@ -107,19 +113,15 @@ Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://ww
 
 ---
 
-
+---
 
 # Research Interest
 
-My research is primarily centered around those key areas: **Compressed Sensing**, **Deep Learning** and the **Internet of Things**.
-
-For compressed sensing, my recent interest is to develop perturbed compressed sensing theory, which not only consider the measurement noise but also take the noise of the sensing matrix into account.
-
-For deep learning, I am deeply passionate about advancing the capabilities of neural networks through innovative models for vision tasks.
-
-For internet of thing, I am focusing on develop the ecosystem of smart home technologies using STMicroelectronics products.
+My research is primarily centered around those key areas: **Compressed Sensing**, **Deep Learning** and **Smart Industrial**.
 
 ## Compressed Sensing
+
+For compressed sensing, my recent interest is to develop perturbed compressed sensing theory, which not only consider the measurement noise but also take the noise of the sensing matrix into account.
 
 <p align="center">
 	<img src="https://dwgan.top/PicGo/img/202408241751483.png" alt="Figures" style="zoom:12%;" />
@@ -128,6 +130,8 @@ For internet of thing, I am focusing on develop the ecosystem of smart home tech
 
 
 ## Deep Learning
+
+For deep learning, I am deeply passionate about advancing the capabilities of neural networks through innovative models for vision tasks.
 
 I am currently focused on exploring new models, such as Mamba, to replace traditional Transformer-based architectures. My goal is to achieve more efficient representation and reduced complexity in neural networks. My research particularly targets vision tasks like image compressed sensing, where the objective is to recover higher quality images using fewer samples, requiring enhanced expressive power in neural networks. [Learn more](https://dwgan.top/blog/)
 
@@ -144,6 +148,8 @@ I am currently focused on exploring new models, such as Mamba, to replace tradit
 
 ## Smart Industrial
 
+For internet of thing, I am focusing on develop the ecosystem of smart home technologies using STMicroelectronics products.
+
 As a System Application Engineer at ST, I specialize in smart industrial applications for smart homes, with a primary focus on advancing the ecosystem. One key area of our work is promoting the KNX standard, a leading international protocol in smart home automation that ensures seamless compatibility and plug-and-play functionality across devices. We’ve developed various demos to showcase the integration of ST’s products, such as STM32 MCU/MPU, chips, KNX protocol chips, IO-Link protocol chips, edge AI sensors, DC-DC converters, and energy harvesting chips. Our demos include smart charging stations, mini IoT houses, photovoltaic energy storage and harvesting, IoT sensors, KNX-based smart building management systems, and solutions for remote network monitoring and intranet penetration. [Learn more](https://dwgan.top/blog/)
 
 <p align="center">
@@ -155,12 +161,12 @@ As a System Application Engineer at ST, I specialize in smart industrial applica
 
 ---
 
-
+---
 
 Skills
 ======
 
+* Deep Learning
 * High Reliable Embedded System Development and Circuit Design
-* Programming: Python (Pytorch), C, MATLAB, Verilog, Shell
+* Programming Language: Python, C, MATLAB, Verilog
 * OS: Windows, Linux, RTOS
-
