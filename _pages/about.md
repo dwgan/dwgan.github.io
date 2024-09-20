@@ -63,15 +63,18 @@ _Solar Energy_, 2024 (IF: 6.7)\
 [[Paper]](../files/1-s2.0-S0038092X24003165-main.pdf)
 
 <p align="center">
-    <img src="../images/MCLBIC.png" style="zoom: 40%;" />
+    <img src="../images/MCLBIC.png" style="zoom: 30%;" />
 </p>
+
 
 
 [3] **Pseudo-random sequence coded electroluminescence imaging for photovoltaic module inspection under outdoor ambient light**\
 Fan Zhu, Kai Xie, **Dongwen Gan**, Lei Quan, and Jingyi Zhu\
 Submitted to [IEEE Journal of Photovoltaics - IEEE Photonics Society](https://ieeephotonics.org/publications/journal-of-photovoltaics/) [Major revision]
 
-
+<p align="center">
+    <img src="https://dwgan.top/PicGo/img/202409202010904.png" style="zoom:30%;" />
+</p>
 
 [4] **The fast compressed light-beam-induced current method for solar cells detection based on the structural random matrix**\
 Fan Zhu, Kai Xie, Lei Quan, **Dongwen Gan**, and Siyu Zhao\
