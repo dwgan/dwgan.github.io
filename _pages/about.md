@@ -122,7 +122,7 @@ My research is primarily centered around those key areas: **Compressed Sensing**
 
 ## Compressed Sensing
 
-For compressed sensing, my recent interest is to develop perturbed compressed sensing theory, which not only consider the measurement noise but also take the noise of the sensing matrix into account.
+For compressed sensing, my recent interest is to develop perturbed compressed sensing theory, which not only consider the measurement noise but also take the noise of the sensing matrix into account. [Learn more](https://dwgan.top/blog/)
 
 <p align="center">
 	<img src="https://dwgan.top/PicGo/img/202408241751483.png" alt="Figures" style="zoom:12%;" />
