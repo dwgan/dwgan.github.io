@@ -26,7 +26,7 @@ My research interest includes **Deep Learning**, **Compressed Sensing**, **Smart
 
 ---
 
----
+
 
 # Scholarships and Honors
 
@@ -42,7 +42,7 @@ My research interest includes **Deep Learning**, **Compressed Sensing**, **Smart
 
 ---
 
----
+
 
 # Publications
 
@@ -102,19 +102,19 @@ Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://ww
 
 
 
----
-
-[1] **一种低频磁性接收天线的设计方法**, CN114122708B, 2022-11-29.
-
-[2] **基于正交调制的光伏电池能效图测量方法**, CN113824400B, 2023-08-22.
-
-[3] **一种实时双内核单机半实物仿真架构及仿真方法**, CN112131741B, 2024-01-30.
 
 
+[8] **一种低频磁性接收天线的设计方法**, CN114122708B, 2022-11-29.
 
----
+[9] **基于正交调制的光伏电池能效图测量方法**, CN113824400B, 2023-08-22.
+
+[10] **一种实时双内核单机半实物仿真架构及仿真方法**, CN112131741B, 2024-01-30.
+
+
 
 ---
+
+
 
 # Research Interest
 
@@ -178,7 +178,7 @@ All devices are verified through aerospace experiment and flight missions.
 
 ---
 
----
+
 
 Skills
 ======
