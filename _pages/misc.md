@@ -36,7 +36,7 @@ Recent Experiences
 * Jun. 5, 2024: I received a invitation of becoming a reviewer for the first time. Accept.
 * May 2, 2024: I visited Beijing again. '*To seize an opportunity and take action*?' '*It's as important to social and integrate resource*.'
 * Apr. 5, 2024: I decide to resume academic endeavors but with a more open and inclusive approach.
-* Feb. 9, 2024: Summarize the past year. I shifted from a student to a workforce, relocated from Xi'an to Shenzhen, and leaved a great group to another great group.
+* Feb. 9, 2024: Summarize the past year. I shifted from a student to a workforce, relocated from Xi'an to Shenzhen, and leaved a great group to meet another great group.
 * Oct. 1, 2023: Progressed steadily in my role as a team member, taking responsibility for organizing _ST_'s Industrial Submit initiatives.
 * Aug. 20, 2023: Life was busy and fun, I really enjoy it. As an Application Engineer, I was trying to design interesting demos for enterprises. In addition, I was trying to learn new skills. I was focusing on Deep Learning recently.
 * Jun. 30, 2023: I joined _STMicroelectronics_ (Shenzhen) as an Application Engineer at Automation Competence Centre, starting my new career.
