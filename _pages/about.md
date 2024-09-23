@@ -118,7 +118,9 @@ Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://ww
 
 # Research Interest
 
-My research is primarily centered around those key areas: **Compressed Sensing**, **Deep Learning** and **Smart Industrial**.
+My research is primarily centered around those key areas: **Compressed Sensing**, **Deep Learning**, **Smart Industrial** and **Intelligent Communication System for Aircraft**.
+
+
 
 ## Compressed Sensing
 
@@ -166,7 +168,7 @@ Aim to empowering the next generation of intelligent aircraft communication syst
 
 Utilizing ultra wide band (UWB) wireless communication technology, we solve some wireless communication challenges including high-rate transmission (camera data), time-sensitive transmission (synchronous data), high-reliable transmission (instruction data) and wireless networking (hard to realize by wire communication). We also solve problem of wireless power and proposed unified core communication framework for missile-borne computer.
 
-All devices are verified through aerospace experiment and flight missions.
+All devices are verified through aerospace experiment and flight missions. Here is the [report link](https://www.guancha.cn/industry-science/2022_01_24_623388.shtml) about one of flight missions.
 
 <p align="center">
   <img src="https://dwgan.top/PicGo/img/202409210116738.png" style="zoom: 65%;" />
