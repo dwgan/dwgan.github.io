@@ -20,7 +20,7 @@ I received the Master degree from [**Xidian University**](https://en.wikipedia.o
 
 Previously, I received the B.E. degree from Xidian University, China, in 2020.
 
-My research interest includes **Deep Learning**, **Compressed Sensing**, **Smart Industrial** and **Wireless Communication**
+My research interests include **Compressed Sensing**, **Deep Learning**, **Smart Industrial** and **Wireless Communication**
 
 
 
@@ -46,7 +46,14 @@ My research interest includes **Deep Learning**, **Compressed Sensing**, **Smart
 
 # Publications
 
-[1] **Orthogonal modulation based light beam induced current method for anti-noise defect detection in photovoltaic cells**\
+[1] **Perturbed Compressed Sensing-based Anti noise Defect Detection for Photovoltaic Cells**\
+**Dongwen Gan**, Supervisor: Lei Quan\
+_Thesis submitted to Xidian University_, 2023\
+[Thesis](https://dwgan.top/files/基于扰动压缩感知的光伏电池表面缺陷抗噪声检测技术研究(图书馆上传版).pdf)
+
+
+
+[2] **Orthogonal modulation based light beam induced current method for anti-noise defect detection in photovoltaic cells**\
 **Dongwen Gan**, Lei Quan, Fan Zhu, Kai Xie, and Junmei Bai\
 _Solar Energy_, 2022 (IF: 7.188)\
 [[Paper]](../files/1-s2.0-S0038092X22006089-main.pdf)
@@ -57,7 +64,7 @@ _Solar Energy_, 2022 (IF: 7.188)\
 
 ​    
 
-[2] **Multispectral compressive light beam induced current method for photovoltaic cell assessment**\
+[3] **Multispectral compressive light beam induced current method for photovoltaic cell assessment**\
 Fan Zhu, Kai Xie, Lei Quan, and **Dongwen Gan**\
 _Solar Energy_, 2024 (IF: 6.7)\
 [[Paper]](../files/1-s2.0-S0038092X24003165-main.pdf)
@@ -67,21 +74,20 @@ _Solar Energy_, 2024 (IF: 6.7)\
 </p>
 
 
-[3] **Pseudo-random sequence coded electroluminescence imaging for photovoltaic module inspection under outdoor ambient light**\
+[4] **Pseudo-random sequence coded electroluminescence imaging for photovoltaic module inspection under outdoor ambient light**\
 Fan Zhu, Kai Xie, **Dongwen Gan**, Lei Quan, and Jingyi Zhu\
 Submitted to [IEEE Journal of Photovoltaics - IEEE Photonics Society](https://ieeephotonics.org/publications/journal-of-photovoltaics/) [Major revision]
 
 <p align="center">
     <img src="https://dwgan.top/PicGo/img/202409202010904.png" style="zoom:30%;" />
 </p>
-
-[4] **The fast compressed light-beam-induced current method for solar cells detection based on the structural random matrix**\
+[5] **The fast compressed light-beam-induced current method for solar cells detection based on the structural random matrix**\
 Fan Zhu, Kai Xie, Lei Quan, **Dongwen Gan**, and Siyu Zhao\
 Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/solar-energy) [Under review]
 
 
 
-[5] **Perturbed compressive-based light beam induced current method for anti-noise defect detection in photovoltaic cells**\
+[6] **Perturbed compressive-based light beam induced current method for anti-noise defect detection in photovoltaic cells**\
 Zhikuan Zhao, Lei Quan, **Dongwen Gan**, Siyu Zhao, Ruiyang Zhuang\
 Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/solar-energy) [Under review]
 
@@ -90,13 +96,13 @@ Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://ww
 </p>
 
 
-[6] **FastPCS: On the Equivalence of Perturbed Compressed Sensing Algorithm**\
+[7] **FastPCS: On the Equivalence of Perturbed Compressed Sensing Algorithm**\
 **Dongwen Gan**\
 [In processing]
 
 
 
-[7] **MambaCS: SSM-based architecture for Image Compressed Sensing**\
+[8] **MambaCS: SSM-based architecture for Image Compressed Sensing**\
 **Dongwen Gan**\
 [In processing]
 
@@ -104,11 +110,11 @@ Submitted to [Solar Energy | Journal | ScienceDirect.com by Elsevier](https://ww
 
 
 
-[8] **一种低频磁性接收天线的设计方法**, CN114122708B, 2022-11-29.
+[9] **一种低频磁性接收天线的设计方法**, CN114122708B, 2022-11-29.
 
-[9] **基于正交调制的光伏电池能效图测量方法**, CN113824400B, 2023-08-22.
+[10] **基于正交调制的光伏电池能效图测量方法**, CN113824400B, 2023-08-22.
 
-[10] **一种实时双内核单机半实物仿真架构及仿真方法**, CN112131741B, 2024-01-30.
+[11] **一种实时双内核单机半实物仿真架构及仿真方法**, CN112131741B, 2024-01-30.
 
 
 
